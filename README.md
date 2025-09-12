@@ -1,2 +1,2 @@
-# MarchMadness
-March Madness Predictor using self implemented GMM and Apriori Itemset Analysis
+# March Madness
+March Madness Predictor for CSCI 5612
