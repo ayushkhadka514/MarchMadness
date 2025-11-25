@@ -1,0 +1,252 @@
+past_team_text,normalized_past,matched_official_team,match_score,method,needs_review
+Abilene Christian,abilene christian,Abilene Chr,90.0,rapidfuzz_wratio,False
+Akron,akron,Akron,100.0,exact_norm,False
+Alabama,alabama,Alabama,100.0,exact_norm,False
+Alabama St,alabama st,Alabama St,100.0,exact_norm,False
+Albany,albany,SUNY Albany,90.0,rapidfuzz_wratio,False
+American,american,American Univ,90.0,rapidfuzz_wratio,False
+Appalachian St,appalachian st,Appalachian St,100.0,exact_norm,False
+Arizona,arizona,Arizona,100.0,exact_norm,False
+Arizona St,arizona state,Arizona St,100.0,exact_norm,False
+Arkansas,arkansas,Arkansas,100.0,exact_norm,False
+Arkansas Pine Bluff,arkansas pine bluff,Arkansas,90.0,rapidfuzz_wratio,False
+Auburn,auburn,Auburn,100.0,exact_norm,False
+Austin Peay,austin peay,Austin Peay,100.0,exact_norm,False
+BYU,brigham young,BYU,100.0,exact_norm,False
+Baylor,baylor,Baylor,100.0,exact_norm,False
+Belmont,belmont,Belmont,100.0,exact_norm,False
+Binghamton,binghamton,Binghamton,100.0,exact_norm,False
+Boise St,boise state,Boise St,100.0,exact_norm,False
+Boston College,boston college,Boston College,100.0,exact_norm,False
+Boston University,boston university,Boston Univ,90.0,rapidfuzz_wratio,False
+Bradley,bradley,Bradley,100.0,exact_norm,False
+Bryant,bryant,Bryant,100.0,exact_norm,False
+Bucknell,bucknell,Bucknell,100.0,exact_norm,False
+Buffalo,buffalo,Buffalo,100.0,exact_norm,False
+Butler,butler,Butler,100.0,exact_norm,False
+Cal Poly,cal poly,Cal Poly,100.0,exact_norm,False
+Cal St Bakersfield,cal st bakersfield,CS Bakersfield,87.5,rapidfuzz_wratio,False
+Cal St Fullerton,cal st fullerton,CS Fullerton,85.71428571428572,rapidfuzz_wratio,True
+Cal St Northridge,cal st northridge,CS Northridge,86.66666666666667,rapidfuzz_wratio,True
+California,california,California,100.0,exact_norm,False
+Charleston,charleston,Col Charleston,95.0,rapidfuzz_wratio,False
+Chattanooga,chattanooga,Chattanooga,100.0,exact_norm,False
+Cincinnati,cincinnati,Cincinnati,100.0,exact_norm,False
+Clemson,clemson,Clemson,100.0,exact_norm,False
+Cleveland St,cleveland st,Cleveland St,100.0,exact_norm,False
+Coastal Carolina,coastal carolina,Coastal Car,81.4814814814815,rapidfuzz_wratio,True
+Colgate,colgate,Colgate,100.0,exact_norm,False
+Colorado,colorado,Colorado,100.0,exact_norm,False
+Colorado St,colorado st,Colorado St,100.0,exact_norm,False
+Connecticut,connecticut,Connecticut,100.0,exact_norm,False
+Coppin St,coppin st,Coppin St,100.0,exact_norm,False
+Cornell,cornell,Cornell,100.0,exact_norm,False
+Creighton,creighton,Creighton,100.0,exact_norm,False
+Davidson,davidson,Davidson,100.0,exact_norm,False
+Dayton,dayton,Dayton,100.0,exact_norm,False
+Delaware,delaware,Delaware,100.0,exact_norm,False
+Detroit Mercy,detroit mercy,Detroit,90.0,rapidfuzz_wratio,False
+Drake,drake,Drake,100.0,exact_norm,False
+Drexel,drexel,Drexel,100.0,exact_norm,False
+Duke,duke,Duke,100.0,exact_norm,False
+Duquesne,duquesne,Duquesne,100.0,exact_norm,False
+East Tennessee St,east tennessee st,Tennessee,90.0,rapidfuzz_wratio,False
+Eastern Kentucky,eastern kentucky,Kentucky,90.0,rapidfuzz_wratio,False
+Eastern Washington,eastern washington,Washington,90.0,rapidfuzz_wratio,False
+Fairleigh Dickinson,fairleigh dickinson,F Dickinson,85.71428571428571,rapidfuzz_wratio,True
+Florida,florida,Florida,100.0,exact_norm,False
+Florida Atlantic,florida atlantic,Florida,90.0,rapidfuzz_wratio,False
+Florida Gulf Coast,florida gulf coast,Florida,90.0,rapidfuzz_wratio,False
+Florida St,florida state,Florida St,100.0,exact_norm,False
+Fresno St,fresno st,Fresno St,100.0,exact_norm,False
+Furman,furman,Furman,100.0,exact_norm,False
+Gardner Webb,gardner webb,Gardner Webb,100.0,exact_norm,False
+George Mason,george mason,George Mason,100.0,exact_norm,False
+George Washington,george washington,Washington,90.0,rapidfuzz_wratio,False
+Georgetown,georgetown,Georgetown,100.0,exact_norm,False
+Georgia,georgia,Georgia,100.0,exact_norm,False
+Georgia St,georgia state,Georgia St,100.0,exact_norm,False
+Georgia Tech,georgia tech,Georgia Tech,100.0,exact_norm,False
+Gonzaga,gonzaga,Gonzaga,100.0,exact_norm,False
+Grambling St,grambling st,Grambling,95.0,rapidfuzz_wratio,False
+Grand Canyon,grand canyon,Grand Canyon,100.0,exact_norm,False
+Green Bay,green bay,WI Green Bay,95.0,rapidfuzz_wratio,False
+Hampton,hampton,Hampton,100.0,exact_norm,False
+Hartford,hartford,Hartford,100.0,exact_norm,False
+Harvard,harvard,Harvard,100.0,exact_norm,False
+Hawaii,hawaii,Hawaii,100.0,exact_norm,False
+Holy Cross,holy cross,Holy Cross,100.0,exact_norm,False
+Houston,houston,Houston,100.0,exact_norm,False
+Howard,howard,Howard,100.0,exact_norm,False
+Illinois,illinois,Illinois,100.0,exact_norm,False
+Indiana,indiana,Indiana,100.0,exact_norm,False
+Indiana St,indiana st,Indiana St,100.0,exact_norm,False
+Iona,iona,Iona,100.0,exact_norm,False
+Iowa,iowa,Iowa,100.0,exact_norm,False
+Iowa St,iowa state,Iowa St,100.0,exact_norm,False
+Jacksonville St,jacksonville st,Jacksonville St,100.0,exact_norm,False
+James Madison,james madison,James Madison,100.0,exact_norm,False
+Kansas,kansas,Kansas,100.0,exact_norm,False
+Kansas St,kansas state,Kansas St,100.0,exact_norm,False
+Kennesaw St,kennesaw st,Kennesaw,95.0,rapidfuzz_wratio,False
+Kent St,kent state,Kent,90.0,rapidfuzz_wratio,False
+Kentucky,kentucky,Kentucky,100.0,exact_norm,False
+LIU,liu,LIU Brooklyn,90.0,rapidfuzz_wratio,False
+LSU,lsu,LSU,100.0,exact_norm,False
+La Salle,la salle,La Salle,100.0,exact_norm,False
+Lafayette,lafayette,Lafayette,100.0,exact_norm,False
+Lamar,lamar,Lamar,100.0,exact_norm,False
+Lehigh,lehigh,Lehigh,100.0,exact_norm,False
+Liberty,liberty,Liberty,100.0,exact_norm,False
+Lipscomb,lipscomb,Lipscomb,100.0,exact_norm,False
+Little Rock,little rock,Ark Little Rock,95.0,rapidfuzz_wratio,False
+Long Beach St,long beach st,Long Beach St,100.0,exact_norm,False
+Longwood,longwood,Longwood,100.0,exact_norm,False
+Louisiana,louisiana,Louisiana,100.0,exact_norm,False
+Louisville,louisville,Louisville,100.0,exact_norm,False
+Loyola Chicago,loyola il,Loyola-Chicago,100.0,exact_norm,False
+Loyola MD,loyola md,Loyola MD,100.0,exact_norm,False
+Manhattan,manhattan,Manhattan,100.0,exact_norm,False
+Marquette,marquette,Marquette,100.0,exact_norm,False
+Marshall,marshall,Marshall,100.0,exact_norm,False
+Maryland,maryland,Maryland,100.0,exact_norm,False
+Massachusetts,massachusetts,Massachusetts,100.0,exact_norm,False
+McNeese St,mcneese st,McNeese St,100.0,exact_norm,False
+Memphis,memphis,Memphis,100.0,exact_norm,False
+Mercer,mercer,Mercer,100.0,exact_norm,False
+Miami FL,miami fl,Miami FL,100.0,exact_norm,False
+Michigan,michigan,Michigan,100.0,exact_norm,False
+Michigan St,michigan state,Michigan St,100.0,exact_norm,False
+Middle Tennessee,middle tennessee,Tennessee,90.0,rapidfuzz_wratio,False
+Milwaukee,milwaukee,WI Milwaukee,95.0,rapidfuzz_wratio,False
+Minnesota,minnesota,Minnesota,100.0,exact_norm,False
+Mississippi,mississippi,Mississippi,100.0,exact_norm,False
+Mississippi St,mississippi state,Mississippi St,100.0,exact_norm,False
+Mississippi Valley St,mississippi valley st,Mississippi,90.0,rapidfuzz_wratio,False
+Missouri,missouri,Missouri,100.0,exact_norm,False
+Montana,montana,Montana,100.0,exact_norm,False
+Montana St,montana state,Montana St,100.0,exact_norm,False
+Morehead St,morehead st,Morehead St,100.0,exact_norm,False
+Morgan St,morgan st,Morgan St,100.0,exact_norm,False
+Mount St Mary s,mount st mary s,Kansas St,85.5,rapidfuzz_wratio,True
+Murray St,murray st,Murray St,100.0,exact_norm,False
+N C State,n c state,NC State,94.11764705882352,rapidfuzz_wratio,False
+Nebraska,nebraska,Nebraska,100.0,exact_norm,False
+Nevada,nevada,Nevada,100.0,exact_norm,False
+New Mexico,new mexico,New Mexico,100.0,exact_norm,False
+New Mexico St,new mexico state,New Mexico St,100.0,exact_norm,False
+New Orleans,new orleans,New Orleans,100.0,exact_norm,False
+Norfolk St,norfolk st,Norfolk St,100.0,exact_norm,False
+North Carolina,north carolina,North Carolina,100.0,exact_norm,False
+North Carolina A T,north carolina a t,North Carolina,95.0,rapidfuzz_wratio,False
+North Carolina Central,north carolina central,North Carolina,90.0,rapidfuzz_wratio,False
+North Dakota,north dakota,North Dakota,100.0,exact_norm,False
+North Dakota St,north dakota state,North Dakota,95.0,rapidfuzz_wratio,False
+North Florida,north florida,North Florida,100.0,exact_norm,False
+North Texas,north texas,North Texas,100.0,exact_norm,False
+Northeastern,northeastern,Northeastern,100.0,exact_norm,False
+Northern Colorado,northern colorado,Colorado,90.0,rapidfuzz_wratio,False
+Northern Iowa,northern iowa,Northern Iowa,100.0,exact_norm,False
+Northern Kentucky,northern kentucky,Kentucky,90.0,rapidfuzz_wratio,False
+Northwestern,northwestern,Northwestern,100.0,exact_norm,False
+Northwestern St,northwestern st,Northwestern,95.0,rapidfuzz_wratio,False
+Notre Dame,notre dame,Notre Dame,100.0,exact_norm,False
+Oakland,oakland,Oakland,100.0,exact_norm,False
+Ohio,ohio,Ohio,100.0,exact_norm,False
+Ohio St,ohio state,Ohio St,100.0,exact_norm,False
+Oklahoma,oklahoma,Oklahoma,100.0,exact_norm,False
+Oklahoma St,oklahoma state,Oklahoma St,100.0,exact_norm,False
+Old Dominion,old dominion,Old Dominion,100.0,exact_norm,False
+Oral Roberts,oral roberts,Oral Roberts,100.0,exact_norm,False
+Oregon,oregon,Oregon,100.0,exact_norm,False
+Oregon St,oregon state,Oregon St,100.0,exact_norm,False
+Pacific,pacific,Pacific,100.0,exact_norm,False
+Penn,penn,Penn,100.0,exact_norm,False
+Penn St,penn state,Penn St,100.0,exact_norm,False
+Pittsburgh,pittsburgh,Pittsburgh,100.0,exact_norm,False
+Portland St,portland st,Portland St,100.0,exact_norm,False
+Prairie View A M,prairie view a m,Prairie View,95.0,rapidfuzz_wratio,False
+Princeton,princeton,Princeton,100.0,exact_norm,False
+Providence,providence,Providence,100.0,exact_norm,False
+Purdue,purdue,Purdue,100.0,exact_norm,False
+Radford,radford,Radford,100.0,exact_norm,False
+Rhode Island,rhode island,Rhode Island,100.0,exact_norm,False
+Richmond,richmond,Richmond,100.0,exact_norm,False
+Robert Morris,robert morris,Robert Morris,100.0,exact_norm,False
+Rutgers,rutgers,Rutgers,100.0,exact_norm,False
+SMU,smu,SMU,100.0,exact_norm,False
+Saint Joseph s,saint joseph s,St Joseph's PA,71.42857142857143,rapidfuzz_wratio,True
+Saint Louis,saint louis,St Louis,100.0,exact_norm,False
+Saint Mary s,saint mary s,Mt St Mary's,66.66666666666667,rapidfuzz_wratio,True
+Saint Peter s,saint peter s,St Peter's,78.26086956521739,rapidfuzz_wratio,True
+Sam Houston St,sam houston st,Sam Houston St,100.0,exact_norm,False
+Samford,samford,Samford,100.0,exact_norm,False
+San Diego,san diego,San Diego,100.0,exact_norm,False
+San Diego St,san diego st,San Diego St,100.0,exact_norm,False
+San Francisco,san francisco,San Francisco,100.0,exact_norm,False
+Seton Hall,seton hall,Seton Hall,100.0,exact_norm,False
+Siena,siena,Siena,100.0,exact_norm,False
+South Alabama,south alabama,South Alabama,100.0,exact_norm,False
+South Carolina,south carolina,South Carolina,100.0,exact_norm,False
+South Dakota St,south dakota state,Kansas St,85.5,rapidfuzz_wratio,True
+South Florida,south florida,South Florida,100.0,exact_norm,False
+Southeast Missouri St,southeast missouri st,Missouri,90.0,rapidfuzz_wratio,False
+Southern,southern,TX Southern,95.0,rapidfuzz_wratio,False
+Southern Miss,southern miss,Southern Miss,100.0,exact_norm,False
+St Bonaventure,saint bonaventure,St Bonaventure,100.0,exact_norm,False
+St John s,st john s,St John's,100.0,exact_norm,False
+Stanford,stanford,Stanford,100.0,exact_norm,False
+Stephen F Austin,stephen f austin,SF Austin,85.5,rapidfuzz_wratio,True
+Stetson,stetson,Stetson,100.0,exact_norm,False
+Stony Brook,stony brook,Stony Brook,100.0,exact_norm,False
+Syracuse,syracuse,Syracuse,100.0,exact_norm,False
+TCU,texas christian,TCU,100.0,exact_norm,False
+Temple,temple,Temple,100.0,exact_norm,False
+Tennessee,tennessee,Tennessee,100.0,exact_norm,False
+Texas,texas,Texas,100.0,exact_norm,False
+Texas A M,texas a m,Texas A&M,100.0,exact_norm,False
+Texas A M Corpus Chris,texas a m corpus chris,Texas,90.0,rapidfuzz_wratio,False
+Texas Southern,texas southern,Texas,90.0,rapidfuzz_wratio,False
+Texas Tech,texas tech,Texas Tech,100.0,exact_norm,False
+Troy,troy,Troy,100.0,exact_norm,False
+Tulsa,tulsa,Tulsa,100.0,exact_norm,False
+UAB,uab,UAB,100.0,exact_norm,False
+UC Davis,uc davis,UC Davis,100.0,exact_norm,False
+UC Irvine,uc irvine,UC Irvine,100.0,exact_norm,False
+UC Santa Barbara,uc santa barbara,UC Santa Barbara,100.0,exact_norm,False
+UCF,ucf,UCF,100.0,exact_norm,False
+UCLA,ucla,UCLA,100.0,exact_norm,False
+UMBC,umbc,UMBC,100.0,exact_norm,False
+UNC Asheville,north carolina asheville,UNC Asheville,100.0,exact_norm,False
+UNC Greensboro,north carolina greensboro,UNC Greensboro,100.0,exact_norm,False
+UNC Wilmington,north carolina wilmington,UNC Wilmington,100.0,exact_norm,False
+UNLV,unlv,UNLV,100.0,exact_norm,False
+USC,southern california,USC,100.0,exact_norm,False
+UT Arlington,ut arlington,UT Arlington,100.0,exact_norm,False
+UTEP,utep,UTEP,100.0,exact_norm,False
+UTSA,utsa,UT San Antonio,67.5,rapidfuzz_wratio,True
+Utah,utah,Utah,100.0,exact_norm,False
+Utah St,utah state,Utah St,100.0,exact_norm,False
+VCU,vcu,VCU,100.0,exact_norm,False
+Valparaiso,valparaiso,Valparaiso,100.0,exact_norm,False
+Vanderbilt,vanderbilt,Vanderbilt,100.0,exact_norm,False
+Vermont,vermont,Vermont,100.0,exact_norm,False
+Villanova,villanova,Villanova,100.0,exact_norm,False
+Virginia,virginia,Virginia,100.0,exact_norm,False
+Virginia Tech,virginia tech,Virginia Tech,100.0,exact_norm,False
+Wagner,wagner,Wagner,100.0,exact_norm,False
+Wake Forest,wake forest,Wake Forest,100.0,exact_norm,False
+Washington,washington,Washington,100.0,exact_norm,False
+Washington St,washington state,Washington St,100.0,exact_norm,False
+Weber St,weber st,Weber St,100.0,exact_norm,False
+West Virginia,west virginia,West Virginia,100.0,exact_norm,False
+Western Kentucky,western kentucky,Kentucky,90.0,rapidfuzz_wratio,False
+Western Michigan,western michigan,Michigan,90.0,rapidfuzz_wratio,False
+Wichita St,wichita state,Wichita St,100.0,exact_norm,False
+Winthrop,winthrop,Winthrop,100.0,exact_norm,False
+Wisconsin,wisconsin,Wisconsin,100.0,exact_norm,False
+Wofford,wofford,Wofford,100.0,exact_norm,False
+Wright St,wright st,Wright St,100.0,exact_norm,False
+Wyoming,wyoming,Wyoming,100.0,exact_norm,False
+Xavier,xavier,Xavier,100.0,exact_norm,False
+Yale,yale,Yale,100.0,exact_norm,False
